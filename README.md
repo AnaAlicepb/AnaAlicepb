@@ -3,6 +3,11 @@
 ### 🎯 Objetivo Profissional
 Atualmente estou focada em me desenvolver como Desenvolvedora Front-End e Full Stack Júnior.
 
+#### Sobre mim
+
+Sou uma profissional dedicada, com uma abordagem proativa para aprendizagem e a resolução de problemas. Minha capacidade de trabalhar tanto em projetos individuais quanto em equipe, aliada à minha vontade de expandir minhas habilidades, me posiciona bem para contribuir significativamente em qualquer equipe de desenvolvimento. Sou uma pessoa versátil e em constante crescimento, com uma base sólida e uma mentalidade de aprendizado contínuo, pronta para enfrentar qualquer desafio e contribuir em projetos de desenvolvimento e soluções.
+
+
 #### 💻 Habilidades
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

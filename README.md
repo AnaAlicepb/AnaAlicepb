@@ -1,5 +1,7 @@
 # Olá, eu sou a Ana Alice 👋
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-gratis/ilustracao-3d-de-uma-adolescente-com-oculos-estudando-em-casa_1057-45919.jpg?t=st=1744385100~exp=1744388700~hmac=22db934493d8bea1de7da24115289f03b1684e39cfa0e758dc3b5d4949abf6dc&w=740">
+
 ### 🎯 Objetivo Profissional
 Atualmente estou focada em me desenvolver como Desenvolvedora Front-End e Full Stack Júnior.
 

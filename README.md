@@ -1,4 +1,5 @@
 # Olá, eu sou a Ana Alice 👋
+![Paisagem ](https://img.freepik.com/fotos-gratis/arte-digital-de-fundo-do-japao_23-2151546140.jpg?t=st=1744386401~exp=1744390001~hmac=acfd8b098dca94a4a533879e33c58d85e9eb6b9dc06ee56d3b62bf743d67cc64&w=996)
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-gratis/ilustracao-3d-de-uma-adolescente-com-oculos-estudando-em-casa_1057-45919.jpg?t=st=1744385100~exp=1744388700~hmac=22db934493d8bea1de7da24115289f03b1684e39cfa0e758dc3b5d4949abf6dc&w=740">
 

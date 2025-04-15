@@ -31,7 +31,7 @@ Sou uma profissional dedicada, com uma abordagem proativa para aprendizagem e a 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaAlicepb&show_icons=true&theme=tokyonight)
 
 ### Sequência de Commits
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaAlicepb&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaAlicepb&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=AnaAlicepb&theme=tokyonight)
 
 ### Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaAlicepb&layout=compact&theme=tokyonight)

@@ -30,7 +30,7 @@ Sou uma profissional dedicada, com uma abordagem proativa para aprendizagem e a 
 ### Estatísticas do GitHub
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaAlicepb&show_icons=true&theme=tokyonight)
 
-### Sequência de Commits inserir
+
 
 
 ### Linguagens mais usadas
